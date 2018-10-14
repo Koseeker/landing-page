@@ -1,7 +1,8 @@
 {
   "short_name": "Koseeker",
-  "name": "Cari Kos Murah Tanpa Ribet",
-  "start_url": "index.html",
+  "name": "Koseeker",
+  "description": "Koseeker - Pencarian Kos, Kontrakan &amp; Apartemen area Kampus",
+  "start_url": "/",
   "background_color": "#2196F3",
   "theme_color": "#2196F3",
   "display": "browser"
