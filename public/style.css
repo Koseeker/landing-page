@@ -353,7 +353,10 @@ section {
 }
 
 .review-one {
-  background-image: url('images/profile-picture-one.jpg');
+  background-image: url('images/widya.jpeg');
+}
+.review-two {
+  background-image: url('images/satria.jpeg');
 }
 
 .personal-info {
