@@ -1,9 +1,16 @@
 {
   "short_name": "Koseeker",
   "name": "Koseeker",
-  "description": "Koseeker - Pencarian Kos, Kontrakan &amp; Apartemen area Kampus",
+  "description": "Pencarian Kos, Kontrakan &amp; Apartemen area Kampus - Koseeker",
   "start_url": "/",
   "background_color": "#2196F3",
   "theme_color": "#2196F3",
-  "display": "browser"
+  "display": "browser",
+  "icons":[
+  	{
+      "src": "https://storage.googleapis.com/koseeker-media-storage/fun/koseeker-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
 }

@@ -193,6 +193,20 @@ section {
 	color: #ffffff;
 }
 
+.btn-regular-line {
+	background-color: #00bb00;
+	color: #ffffff;
+	padding: 10px 25px;
+	letter-spacing: .1em;
+	margin-top: 25px;
+	display: inline-block;
+}
+
+.btn-regular-line:hover {
+	background-color: #46c846;
+	color: #ffffff;
+}
+
 .btn-demo {
 	color: #ffffff;
 	background-color: #6772e5;
